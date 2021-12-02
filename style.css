@@ -1,0 +1,16 @@
+h1{
+	color: rgba(21, 191, 221); 
+	font-size: 40px;
+}
+
+#bodybackground {
+	background-position: center;
+	background-size: cover;
+}
+
+#Canvas1{
+    border-width: 10px;
+	background-color: rgb(255, 255, 255); 
+	border-style: solid;
+	border-color: rgba(204, 19, 255, 0.509);
+}
